@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZPO3.1", "ZPO3.1\ZPO3.1.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZPO3.2", "ZPO3.2\ZPO3.2.csproj", "{659907F5-D784-4C25-AC95-76CE0309F504}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZPO3.3", "ZPO3.3\ZPO3.3.csproj", "{53C7BF97-B212-4100-97EF-3A5803F6B8BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{659907F5-D784-4C25-AC95-76CE0309F504}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{659907F5-D784-4C25-AC95-76CE0309F504}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{659907F5-D784-4C25-AC95-76CE0309F504}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53C7BF97-B212-4100-97EF-3A5803F6B8BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53C7BF97-B212-4100-97EF-3A5803F6B8BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53C7BF97-B212-4100-97EF-3A5803F6B8BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53C7BF97-B212-4100-97EF-3A5803F6B8BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

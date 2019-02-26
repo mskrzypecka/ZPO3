@@ -43,8 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DekoratorWojownikow.cs" />
+    <Compile Include="Dekoratory\Helm.cs" />
+    <Compile Include="Dekoratory\Miecz.cs" />
+    <Compile Include="Dekoratory\Tarcza.cs" />
+    <Compile Include="Dekoratory\Zbroja.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Wojownicy\Rycerz.cs" />
+    <Compile Include="Wojownicy\Wojownik.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
